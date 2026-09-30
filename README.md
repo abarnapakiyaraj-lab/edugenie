@@ -1,7 +1,9 @@
-https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg## 🎥 Project Demo Video
+## 🎥 Project Demo Video - LegalEase
 
 Full project working video inga paarkalam:
 
-[![LegalEase Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![LegalEase Demo](https://img.youtube.com/vi/utnyJAq_eq0/0.jpg)](https://youtube.com/shorts/utnyJAq_eq0?si=4qYa1PeaW21A63q3)
 
-**Link:** https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+**📺 Direct Link:** https://youtube.com/shorts/utnyJAq_eq0?si=4qYa1PeaW21A63q3
+
+> Click the image above to watch the demo!
